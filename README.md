@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nukebyt
-- 👀 I’m interested in py, js, blockchain, crypto native games
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on crypto native games
-- 📫 How to reach me nukebyt05@gmail.com
+- 👋 Hi, I’m @Nukebyt, I'm an Electronics engineer.
+- 👀 I’m interested in ASIC design, Circuit design, Solar Electric Vehicles and Autonomous Systems.
+- 💞️ I’m looking to collaborate on VLSI Design Projects
+- 📫 How to reach me priyanuj.bx5@gmail.com
 
 <!---
 Nukebyt/Nukebyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
