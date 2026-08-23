@@ -1,21 +1,21 @@
 # Priyanuj Boruah
 
-Electronics engineer (VLSI Design, VIT Chennai) working outward from silicon into the systems that sit on top of it — currently focused on **low-latency infrastructure, quantitative/financial engineering, and applied AI**, with **data analytics** as a recurring thread across all of it. GATE 2026 AIR 1626 (Instrumentation Engineering).
+Electronics engineer (VLSI Design, VIT Chennai) working outward from silicon into the systems that sit on top of it - currently focused on **low-latency infrastructure, quantitative/financial engineering, and applied AI**, with **data analytics** as a recurring thread across all of it. GATE 2026 AIR 1626 (Instrumentation Engineering).
 
-The common problem across these projects: something has to be fast, correct, and observable under real constraints — clock cycles, network round-trips, or a warehouse floor. VLSI is where I learned to think that way; the projects below are where I'm applying it.
+The common problem across these projects: something has to be fast, correct, and observable under real constraints - clock cycles, network round-trips, or a warehouse floor. VLSI is where I learned to think that way; the projects below are where I'm applying it.
 
 ---
 
 ## Currently building
 
 **Low-latency systems & market microstructure**
-Simulated exchange infrastructure in C++ — matching engine, order book, risk engine — with the hot path kept in-process and everything else (Kafka, Postgres, Redis, gRPC/REST/WebSocket APIs, Prometheus/Grafana) decoupled so it can fail independently. Benchmarks are measured against the running system, not estimated.
+Simulated exchange infrastructure in C++ — matching engine, order book, risk engine - with the hot path kept in-process and everything else (Kafka, Postgres, Redis, gRPC/REST/WebSocket APIs, Prometheus/Grafana) decoupled so it can fail independently. Benchmarks are measured against the running system, not estimated.
 
 **Applied AI**
-Local-first tooling — an offline meeting summarizer (Whisper + a local LLM, no cloud calls) and ML models compressed to run on a RISC-V microcontroller with 16 KB of SRAM. The constraint I keep choosing is "make it work without a GPU or an API key."
+Local-first tooling - an offline meeting summarizer (Whisper + a local LLM, no cloud calls) and ML models compressed to run on a RISC-V microcontroller with 16 KB of SRAM. The constraint I keep choosing is "make it work without a GPU or an API key."
 
 **Data analytics & BI**
-SQL-first analytics work — star-schema warehouses, Tableau and Power BI dashboards, and a couple of forecasting/classification models (Prophet, Random Forest) layered on top for prediction rather than just reporting.
+SQL-first analytics work - star-schema warehouses, Tableau and Power BI dashboards, and a couple of forecasting/classification models (Prophet, Random Forest) layered on top for prediction rather than just reporting.
 
 **VLSI & embedded systems** *(where this started)*
 RTL design, FPGA pipelines, RISC-V, and the Reva Solar Racing team I led through a 20+ person build-and-compete cycle.
