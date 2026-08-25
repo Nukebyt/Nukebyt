@@ -65,4 +65,4 @@ RTL design, FPGA pipelines, RISC-V, and the Reva Solar Racing team I led through
 
 - Email: [priyanuj.bx5@gmail.com](mailto:priyanuj.bx5@gmail.com)
 - LinkedIn: [priyanuj-boruah](https://linkedin.com/in/priyanuj-boruah-997ba5231)
-- Portfolio: _add your live site URL here_
+- Portfolio: [_portfolio ](https://nukebyt.netlify.app/)
